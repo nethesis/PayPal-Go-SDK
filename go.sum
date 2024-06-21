@@ -1,0 +1,4 @@
+github.com/logpacker/PayPal-Go-SDK v2.0.5+incompatible h1:FGElA5Evfcolh+1jivSPd6Fz2zYCNtjHnoJqGUR/Ztc=
+github.com/logpacker/PayPal-Go-SDK v2.0.5+incompatible/go.mod h1:DUf5ncyG0n3jFnU9VsuQqe/Vo6KHtWQ6HYf80JwP4rY=
+github.com/plutov/paypal v2.0.5+incompatible h1:i5ma4HiHO0MUvJGHaKkL2aqOj0B19q8WoJm1jgzQjlM=
+github.com/plutov/paypal v2.0.5+incompatible/go.mod h1:jOStyiXeDrJ9dHA/yVUB2ahyYPjd5rMXUZ4N7XM37nQ=
